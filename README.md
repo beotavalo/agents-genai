@@ -2,5 +2,11 @@
 [![CrewAI](https://img.shields.io/badge/CrewAI-X-red.svg)](https://www.crew.ai/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-X-orange.svg)](https://openai.com/)
 [![GenAI](https://img.shields.io/badge/GenAI-X-purple.svg)]()
-# agent-crews-genai
-Agents and Multiagents using generative AI tools using Langchain, Llamaindex and CrewAI.
+# AI Agents
+Agents and Multi-agents use generative AI tools such as Langchain, Llamaindex, and CrewAI.
+
+## Multiagents
+## Resources:
+- [Mastering Agents: LangGraph Vs Autogen Vs Crew AI](https://www.galileo.ai/blog/mastering-agents-langgraph-vs-autogen-vs-crew)
+- [More Agents Is All You Need](https://arxiv.org/abs/2402.05120)
+
