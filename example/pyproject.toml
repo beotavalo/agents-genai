@@ -1,0 +1,21 @@
+[project]
+name = "example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ruff>=0.8.4",
+]
+
+[tool.ruff.lint]
+extend-select = [
+  'D', #pydocstyle
+  'E', 'W', # pycodestyle
+  'F', #pyflakes
+  'I', # sort imports
+  'UP', #pyupgrade
+  "RUF",  # ruff dev's own rules
+  "SIM", # pyflakes simplicity
+  "C90", # more complexity rules
+]
