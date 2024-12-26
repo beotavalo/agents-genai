@@ -88,3 +88,6 @@ Proposed Solution Architecture: 1. System Components: a) Agent Layer: - Five spe
 - [LLM Consortium](https://llm-consortium.rnikhil.com/)
 - [Nice! LLM consortium.](https://x.com/karpathy/status/1870692546969735361)
 - [More about](https://rnikhil.com/about)
+- [AI Agentic-Driven Strategies and Game Theory: Shaping 2030 Business Ecosystems](https://medium.com/@oracle_43885/ai-agentic-system-and-game-theory-a-roadmap-for-2030-business-ecosystems-success-8cc4e16547b8)
+- [AI Game Theory explained for Multi-Agents](https://www.youtube.com/watch?v=rC-ee5LAkM4)
+- [What is game theory?](https://klu.ai/glossary/game-theory)
