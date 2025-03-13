@@ -11,3 +11,5 @@ Agents and Multi-agents use generative AI tools such as Langchain, Llamaindex, a
 - [More Agents Is All You Need](https://arxiv.org/abs/2402.05120)
 - [Applied LLMs Mastery 2024](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
 - [GUI Agents: A Survey](https://arxiv.org/abs/2412.13501?fbclid=IwY2xjawHRjkFleHRuA2FlbQIxMQABHZJHZnqCDfcxFnXyZk921fp74NFZTtTQynHUeZwtp1DG1sZ3OIoLaS2SiQ_aem_3R4O8SzN6pWC50kiEwx4jw&sfnsn=wa)
+
+- [Manus](https://manus.im/)
