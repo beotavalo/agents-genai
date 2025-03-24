@@ -13,3 +13,4 @@ Agents and Multi-agents use generative AI tools such as Langchain, Llamaindex, a
 - [GUI Agents: A Survey](https://arxiv.org/abs/2412.13501?fbclid=IwY2xjawHRjkFleHRuA2FlbQIxMQABHZJHZnqCDfcxFnXyZk921fp74NFZTtTQynHUeZwtp1DG1sZ3OIoLaS2SiQ_aem_3R4O8SzN6pWC50kiEwx4jw&sfnsn=wa)
 
 - [Manus](https://manus.im/)
+- [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
